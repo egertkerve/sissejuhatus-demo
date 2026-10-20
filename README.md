@@ -1,1 +1,2 @@
 # sissejuhatus-demo
+Seminari näide
